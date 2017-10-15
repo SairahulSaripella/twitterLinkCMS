@@ -1,0 +1,8 @@
+c:\users\sai\documents\visual studio 2017\Projects\twitterLinkEmbed\twitterLinkEmbed\bin\Debug\twitterLinkEmbed.exe.config
+c:\users\sai\documents\visual studio 2017\Projects\twitterLinkEmbed\twitterLinkEmbed\bin\Debug\twitterLinkEmbed.exe
+c:\users\sai\documents\visual studio 2017\Projects\twitterLinkEmbed\twitterLinkEmbed\bin\Debug\twitterLinkEmbed.pdb
+c:\users\sai\documents\visual studio 2017\Projects\twitterLinkEmbed\twitterLinkEmbed\obj\Debug\twitterLinkEmbed.csproj.CoreCompileInputs.cache
+c:\users\sai\documents\visual studio 2017\Projects\twitterLinkEmbed\twitterLinkEmbed\obj\Debug\twitterLinkEmbed.exe
+c:\users\sai\documents\visual studio 2017\Projects\twitterLinkEmbed\twitterLinkEmbed\obj\Debug\twitterLinkEmbed.pdb
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\twitterLinkEmbed\twitterLinkEmbed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sai\Documents\Visual Studio 2017\Projects\twitterLinkEmbed\twitterLinkEmbed\bin\Debug\Newtonsoft.Json.xml
